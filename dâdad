@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Website Wireframe: Mobile, Desktop, and Landing Page Views</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      padding: 20px;
+      max-width: 960px;
+      margin: auto;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .description {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    img {
+      display: block;
+      margin: 20px auto;
+      max-width: 100%;
+      border: 2px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Website Wireframe</h1>
+
+  <div class="description">
+    <h2>Brief Write-Up</h2>
+    <p>
+      This document presents the wireframe sketches for my responsive website design. It includes three unique views:
+    </p>
+    <ul>
+      <li><strong>Mobile View</strong>: Optimized for small screens with vertical stacking, touch-friendly navigation, and minimal layout.</li>
+      <li><strong>Desktop View</strong>: Utilizes a multi-column layout, horizontal menu, larger content blocks, and enhanced visual hierarchy.</li>
+      <li><strong>Landing Page</strong>: A distinct layout with a full-width hero image, intro text, and a call-to-action button designed to attract and guide users.</li>
+    </ul>
+    <p>
+      All wireframes were created without color or typography styling, in accordance with wireframing best practices, and focus on content structure and layout clarity.
+    </p>
+  </div>
+
+  <h2>Mobile View Sketch</h2>
+  <img src="images/mobile-sketch.jpg" alt="Mobile wireframe sketch">
+
+  <h2>Desktop View Sketch</h2>
+  <img src="images/desktop-sketch.jpg" alt="Desktop wireframe sketch">
+
+  <h2>Landing Page Sketch</h2>
+  <img src="images/landing-sketch.jpg" alt="Landing page wireframe sketch">
+
+</body>
+</html>
